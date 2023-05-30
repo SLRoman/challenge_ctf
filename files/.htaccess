@@ -1,0 +1,4 @@
+AddDefaultCharset utf-8
+<RequireAll>
+    Require all granted
+</RequireAll>
